@@ -9,7 +9,7 @@ var	paperObj;
 var world;
 
 
-
+//setup
 function setup() {
 	createCanvas(1600, 700);
 	rectMode(CENTER);
